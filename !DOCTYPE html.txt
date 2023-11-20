@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+
+<
+<html lang="en">
+<head>
+    
+    
+<meta charset="UTF-8">
+    
+   
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edwin Anderson Cuayal Bolaños - Abogado</title>
+    <style>
+       
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        header {
+            background-color: #000;
+            color: #fff;
+            padding: 1em;
+        }
+
+        h1 {
+            margin-bottom: 0;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+            padding: 0.5em;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 1em;
+        }
+
+        section {
+            padding: 2em;
+        }
+
+        footer {
+            background-color: #000;
+            color: #fff;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+
+</h
+</head>
+<body>
+    <header>
+        
+     
+<h1>Edwin Anderson Cuayal Bolaños</h1>
+        <p>Abogado en Colombia</p>
+    
+   
+</header>
+
+    
+
+    <
+<nav>
+        <a href="#about">Acerca de mí</a>
+        
+      
+
+ 
+<a href="#services">Servicios</a>
+        
+      
+<a href="#contact">Contacto</a>
+    
+    </na
+
+   
+</nav>
+
+    
+
+ 
+<section id="about">
+        
+   
+<h2>Acerca de mí</h2>
+        
+    
+<p>¡Bienvenido a mi página web! Soy Edwin Anderson Cuayal Bolaños, un abogado con experiencia en Colombia. Mi objetivo es brindar servicios legales de calidad, comprometido con la justicia y la excelencia profesional.</p>
+    
+    </sect
+
+   
+</section>
+
+    
+
+    
+<section id="services">
+        <h2>Servicios</h2>
+        
+       
+<p>Ofrezco una amplia gama de servicios legales, incluyendo asesoría jurídica, representación legal, y más. Mi enfoque es proporcionar soluciones efectivas y personalizadas para cada cliente.</p>
+    
+    </sectio
+
+    
+</section>
+
+    
+
+  
+<section id="contact">
+        
+       
+<h2>Contacto</h2>
+        
+   
+<p>¡Contáctame para discutir tus necesidades legales! Estoy aquí para ayudarte.</p>
+        
+        
+<p>Email: ander045@hotmail.es</p>
+        
+   
+<p>Teléfono: +57 3235398429</p>
+    
+    </sect
+
+  
+</section>
+
+    
+
+  
+<footer>
+        
+     
+<p>&copy; 2023 Edwin Anderson Cuayal Bolaños - Abogado en Colombia</p>
+    
+  
+</footer>
+</body>
+
+</
+</html>
